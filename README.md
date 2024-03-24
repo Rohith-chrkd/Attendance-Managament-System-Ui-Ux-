@@ -1,4 +1,4 @@
-The figma file is   https://www.figma.com/file/7FKvKTMknjCjeoIL8CgPBI/Attendence-Management?type=design&node-id=0%3A1&mode=design&t=HmTNuAgNRtuF3xb3-1
+The figma file is   https://www.figma.com/file/7FKvKTMknjCjeoIL8CgPBI/Attendence-Management?type=design&node-id=0%3A1&mode=design&t=3yBpwmMhb6sLjGux-1
 
 
 
