@@ -1,3 +1,12 @@
+The figma file is   https://www.figma.com/file/7FKvKTMknjCjeoIL8CgPBI/Attendence-Management?type=design&node-id=0%3A1&mode=design&t=HmTNuAgNRtuF3xb3-1
+
+
+
+
+
+
+
+
 The technical task assigned by “PHISCAPE” is to design an employee attendance management system using UI/UX  with separate login as well as register tabs for both employee and admin. In the employee tab there must be the options for punch in and punch out with both date and time menu along with the option for submitting leave form. In the Admin tab , the Admin can access the list of employees working there, their basic details , attendance , leave application etc. From this the admin can either approve or reject the leave of the employee. The employee can also view the approval status of their leave.
 
 I designed a platform for this purpose using ui/ux in figma. The name of the prototype I designed is “INIZIO” which means  new beginning . In this figma file I designed an index page showing the logo and name of the app , when entering any key or clicking on the tab there comes the main home screen. In this home screen there is the option to enter as Admin as well as Employee with separate buttons . When clicked in the Admin button it  shows an admin login tab. In the admin login tab there is the space for filling admin username as well as admin password (default values -  when pressed on “A” the username box is filled as “ADMIN” and when clicked on “P” the password box is filled with password the user can also view the entered password with the eye option in the right side of the text box) , if the user is a new user there is also the option for registering new user , there is also the options for forget password (When clicked on the forget password option it redirects to another tab where the user have to enter the username and new password twice to change the forgotten password). This also same in the case of Employee login tab ,when clicked on the Employee button in the home tab the employee login tab appears , the features are same as mentioned in the admin tab (here the default login values set for the employees are number pad 1,2,3  for 3 default employee login and “P” for password ). 
