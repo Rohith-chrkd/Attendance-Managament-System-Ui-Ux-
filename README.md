@@ -1,5 +1,5 @@
 The figma file is   https://www.figma.com/file/7FKvKTMknjCjeoIL8CgPBI/Attendence-Management?type=design&node-id=0%3A1&mode=design&t=3yBpwmMhb6sLjGux-1
-
+ Editable file   https://www.figma.com/file/7FKvKTMknjCjeoIL8CgPBI/Attendence-Management?type=design&node-id=0%3A1&mode=design&t=u8QUnrerr5Wg4V8D-1
 
 
 
